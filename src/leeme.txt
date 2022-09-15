@@ -1,2 +1,0 @@
-El modelo que corresponde a este proyecto es demasiado pesado para estar en GitHub!
-Desde el script train.py puedes descargartelo en tu ordenador, y usarlo.
